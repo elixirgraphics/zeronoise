@@ -50,7 +50,10 @@
   margin-top: -0.4em; // vertical alignment
 }
 
-.custom-search-banner,
-.custom-search-banner-wrap {
+.search-banner {
   border-radius: 10px !important;
+}
+
+.custom-search-banner {
+  padding: 5em 0 7em;
 }
