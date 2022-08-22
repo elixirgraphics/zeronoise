@@ -50,8 +50,13 @@
   margin-top: -0.4em; // vertical alignment
 }
 
-.search-banner {
+.search-banner,
+.search-banner #search-term,
+.search-banner .search-input {
   border-radius: 10px !important;
+}
+
+.search-banner {
   box-shadow: 0px 15px 27px rgba(17, 7, 60, 0.15);
 }
 
